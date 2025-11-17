@@ -1,0 +1,20 @@
+# macOS
+.DS_Store
+
+# IDE / éditeurs
+.idea/
+.vscode/
+
+# Fichiers sensibles
+db.php
+.env
+
+# Logs
+*.log
+
+# Autres
+vendor/
+node_modules/
+db.php
+db.php
+db.php
